@@ -22,8 +22,13 @@ STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
 '''
-            [Ramnithish.R - Colab.pdf](https://github.com/user-attachments/files/19073345/Ramnithish.R.-.Colab.pdf)
+import pandas as pd
+df=pd.read_csv("/content/SAMPLEIDS.csv")
+df
 '''
+![Screenshot 2025-03-04 205446](https://github.com/user-attachments/assets/98ac9420-d334-46fc-91af-2bd0df00729e)
+
+
 
 # Result
 '''
