@@ -21,7 +21,11 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
+'''
             [Ramnithish.R - Colab.pdf](https://github.com/user-attachments/files/19073345/Ramnithish.R.-.Colab.pdf)
+'''
 
 # Result
+'''
           Thus we have cleaned the data and removed the outliers by detection using IQR and Z-score method
+'''
